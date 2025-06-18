@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I’m Gopinath S, a passionate Software Engineer with 2+ years of experience specializing in CRM and SaaS web application development. I build scalable, secure, and high-performance web solutions using modern technologies.
+👋 Hi, I’m Gopinath S — a Software Engineer with 2+ years of experience building CRM and SaaS web applications. I specialize in Node.js, Vue.js, and MongoDB, focusing on creating scalable, secure microservices and real-time data solutions.
+
+🚀 I enjoy improving application performance, reducing costs, and ensuring data reliability through modern frameworks, caching, and API development.
+
+🔧 Skilled in REST API, gRPC, OAuth 2.0, Redis, Confluent Kafka, Docker, Git, GitHub, Agile methodologies, CI/CD pipelines, Express.js, Koa.js, GraphQL, JWT, PostgreSQL, and cloud-based software development.
+
+📊 Experienced in database indexing, Atlas Search, data validation, software testing, and performance tuning.
+
+📂 Currently working on projects like CargoEZ, a cloud-based SaaS CRM for freight forwarding, delivering fast, reliable, and secure user experiences.
 
 
 ## 🌐 Socials:
